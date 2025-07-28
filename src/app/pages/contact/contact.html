@@ -1,0 +1,45 @@
+<section id="contact" class="bg-dark text-light d-flex align-items-center" style="min-height: 100vh;">
+  <div class="container py-5" data-aos="zoom-in">
+    <h2 class="text-warning mb-4 text-center fw-bold">Contact Me</h2>
+    <p class="text-center mb-5 fs-5">
+      I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+    </p>
+
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <form action="https://formspree.io/f/xovldlzy" method="POST">
+          <input type="hidden" name="_next" value="http://localhost:4200/thanks">
+          <input type="hidden" name="_replyto">
+
+          <div class="mb-3">
+            <label for="name" class="form-label">Your Name</label>
+            <input type="text" name="name" id="name" class="form-control bg-dark text-light border-warning" required>
+          </div>
+
+          <div class="mb-3">
+            <label for="email" class="form-label">Your Email</label>
+            <input type="email" name="email" id="email" class="form-control bg-dark text-light border-warning" required>
+          </div>
+
+          <div class="mb-3">
+            <label for="message" class="form-label">Your Message</label>
+            <textarea name="message" id="message" class="form-control bg-dark text-light border-warning" rows="5" required></textarea>
+          </div>
+
+          <div class="text-center">
+            <button type="submit" class="btn btn-warning px-4 py-2 fw-semibold">
+              <i class="bi bi-send"></i> Send Message
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="text-center mt-5">
+      <p class="mb-2"><i class="bi bi-envelope-fill text-warning me-2"></i> ahmed.shreif.work@gmail.com</p>
+      <p class="mb-2"><i class="bi bi-github text-warning me-2"></i>
+        <a href="https://github.com/Ahmedshreif-code" class="text-warning text-decoration-none">GitHub</a>
+      </p>
+    </div>
+  </div>
+</section>
