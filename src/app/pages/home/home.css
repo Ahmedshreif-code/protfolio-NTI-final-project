@@ -17,11 +17,36 @@ html, body {
   top: 0; left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6); 
+  background-color: rgba(0, 0, 0, 0.6);
   z-index: 1;
 }
 
 .home-hero > div {
   z-index: 2;
   position: relative;
+}
+
+.project-card {
+  background: #1e1e2f;
+  color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 12px 30px rgba(255, 193, 7, 0.25);
+}
+
+.project-card img {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.btn-outline-light:hover {
+  background-color: #f8f9fa;
+  color: #000;
+  border-color: #f8f9fa;
 }
