@@ -67,3 +67,9 @@ p {
   100% { transform: translateY(0); }
 }
 
+.glass-card {
+  background: rgba(0, 0, 0, 0.315);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+}
