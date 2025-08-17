@@ -6,7 +6,6 @@ html, body {
 
 .home-hero {
   height: 100vh;
-  background: url('https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
   padding: 20px;
   position: relative;
 }
@@ -50,3 +49,4 @@ html, body {
   color: #000;
   border-color: #f8f9fa;
 }
+
