@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background: black url('https://www.transparenttextures.com/patterns/stardust.png');
+  animation: stars 100s linear infinite;
+}
+
+@keyframes stars {
+  from { background-position: 0 0; }
+  to   { background-position: -10000px 5000px; }
+}
