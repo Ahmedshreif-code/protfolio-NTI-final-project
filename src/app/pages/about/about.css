@@ -37,3 +37,30 @@ p {
   background-color: #fdd835;
   color: #000;
 }
+.list-inline-item {
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.list-inline-item:hover {
+  transform: scale(1.1);
+  background: linear-gradient(135deg, #ffcc00, #ff9900);
+  color: #fff !important;
+  box-shadow: 0 0 15px rgba(255, 193, 7, 0.8);
+}
+
+
+.btn-warning {
+  animation: shake 2.5s infinite;
+}
+
+@keyframes shake {
+  0% { transform: translateY(0); }
+  20% { transform: translateY(-2px); }
+  40% { transform: translateY(2px); }
+  60% { transform: translateY(-2px); }
+  80% { transform: translateY(2px); }
+  100% { transform: translateY(0); }
+}
+
+
