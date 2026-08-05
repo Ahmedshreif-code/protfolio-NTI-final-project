@@ -25,12 +25,20 @@ export class Projects {
       github: "https://github.com/Ahmedshreif-code/project-3-bootstrab.git"
     },
     {
-      title: "Perfume Project",
-      description: "A clean, elegant perfume product landing page with modern layout and visual design.",
+      title: "THE UX REVIEW",
+      description: "Responsive Landing Page – A modern and fully responsive landing page built using HTML5 and CSS3. The project features a clean layout, responsive design for all screen sizes, well-structured sections, and modern UI styling, demonstrating strong fundamentals in frontend web development.",
       technologies: "HTML, CSS",
-      img: "https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=500&auto=format&fit=crop&q=60",
-      demo: "https://ahmedshreif-code.github.io/poroject1-HTML-CSS/",
-      github: "https://github.com/Ahmedshreif-code/poroject1-HTML-CSS.git"
+      img: "https://images.unsplash.com/photo-1630852722069-7062272a0f8a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      demo: "https://ahmedshreif-code.github.io/Route-Tasks/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment4-01004369345/",
+      github: "https://github.com/Ahmedshreif-code/Route-Tasks/tree/main/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment4-01004369345"
+    },
+    {
+      title: "Mudabbir Dashboard",
+      description: "Responsive Dashboard – A modern and fully responsive dashboard built with HTML5 and CSS3. The project includes a clean product showcase, promotional sections, responsive navigation, and a well-structured layout, demonstrating responsive design principles and attention to user experience.",
+      technologies: "HTML, CSS",
+      img: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      demo: "https://ahmedshreif-code.github.io/Route-Tasks/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment5-01004369345/",
+      github: "https://github.com/Ahmedshreif-code/Route-Tasks/tree/main/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment5-01004369345"
     },
     {
     title: "X-O Game",
