@@ -41,36 +41,45 @@ export class Projects {
       github: "https://github.com/Ahmedshreif-code/Route-Tasks/tree/main/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment5-01004369345"
     },
     {
-    title: "X-O Game",
-    description: "X-O Game is a simple yet interactive Tic-Tac-Toe web application built using Angular.",
-    technologies: "Angular, CSS",
-    img: "https://images.unsplash.com/photo-1699039506677-61d9b15dfa60?q=80&w=627&auto=format&fit=crop",
-    demo: "https://x-o-game-swart.vercel.app/",
-    github: "https://github.com/Ahmedshreif-code/X-O-Game.git"
-  },
-  {
-    title: "Dynamic-list Project",
-    description: "Dynamic List Filter is a responsive web application built with Angular, designed to allow users to dynamically search and filter items from a list in real time.",
-    technologies: "Angular, CSS, Bootstrap",
-    img: "https://plus.unsplash.com/premium_photo-1681487857509-abb58345e594?q=80&w=1170&auto=format&fit=crop",
-    demo: "https://dynamic-list-one.vercel.app",
-    github: "https://github.com/Ahmedshreif-code/Dynamic-list.git"
-  },
-  {
-    title: "Simple To-Do-list Project",
-    description: "Simple To-Do List is a lightweight task management application built with Angular, designed to help users organize their daily tasks efficiently.",
-    technologies: "Angular, CSS, Bootstrap",
-    img: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1172&auto=format&fit=crop",
-    demo: "https://simple-to-do-list-pied.vercel.app",
-    github: "https://github.com/Ahmedshreif-code/simple-To-do-list.git"
-  },
-  {
-    title: "Guess-the-number-Game",
-    description: "The Guess the Number Game is a simple yet fun number-guessing game built with Angular. The computer randomly generates a secret number between 1 and 100, and the player has to guess it within a limited number of attempts.",
-    technologies: "Angular, CSS, Bootstrap",
-    img: "https://images.unsplash.com/photo-1724120932030-d8210a77deed?q=80&w=1315&auto=format&fit=crop",
-    demo: "https://guess-the-number-game-ten-theta.vercel.app/",
-    github: "https://github.com/Ahmedshreif-code/Guess-the-number-Game.git"
-  }
+      title: "ContactHub – Smart Contact Manager",
+      description: "A responsive contact management application built with HTML5, CSS3, Bootstrap, and JavaScript. The application enables users to add, edit, search, and organize contacts, with dedicated sections for favorites and emergency contacts. It uses dynamic DOM manipulation and browser Local Storage to manage and persist contact data.",
+      technologies: "HTML5, CSS3, Bootstrap 5,JavaScript (ES6+),Local Storage",
+      img: "https://images.unsplash.com/photo-1600783246032-1056431c253c?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      demo: "https://ahmedshreif-code.github.io/Route-Tasks/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment9-01004369345/",
+      github: "https://github.com/Ahmedshreif-code/Route-Tasks/tree/main/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment9-01004369345"
+    },
+    {
+      title: "X-O Game",
+      description: "X-O Game is a simple yet interactive Tic-Tac-Toe web application built using Angular.",
+      technologies: "Angular, CSS",
+      img: "https://images.unsplash.com/photo-1699039506677-61d9b15dfa60?q=80&w=627&auto=format&fit=crop",
+      demo: "https://x-o-game-swart.vercel.app/",
+      github: "https://github.com/Ahmedshreif-code/X-O-Game.git"
+    },
+    {
+      title: "Dynamic-list Project",
+      description: "Dynamic List Filter is a responsive web application built with Angular, designed to allow users to dynamically search and filter items from a list in real time.",
+      technologies: "Angular, CSS, Bootstrap",
+      img: "https://plus.unsplash.com/premium_photo-1681487857509-abb58345e594?q=80&w=1170&auto=format&fit=crop",
+      demo: "https://dynamic-list-one.vercel.app",
+      github: "https://github.com/Ahmedshreif-code/Dynamic-list.git"
+    },
+    {
+      title: "Simple To-Do-list Project",
+      description: "Simple To-Do List is a lightweight task management application built with Angular, designed to help users organize their daily tasks efficiently.",
+      technologies: "Angular, CSS, Bootstrap",
+      img: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1172&auto=format&fit=crop",
+      demo: "https://simple-to-do-list-pied.vercel.app",
+      github: "https://github.com/Ahmedshreif-code/simple-To-do-list.git"
+    },
+    {
+      title: "Guess-the-number-Game",
+      description: "The Guess the Number Game is a simple yet fun number-guessing game built with Angular. The computer randomly generates a secret number between 1 and 100, and the player has to guess it within a limited number of attempts.",
+      technologies: "Angular, CSS, Bootstrap",
+      img: "https://images.unsplash.com/photo-1724120932030-d8210a77deed?q=80&w=1315&auto=format&fit=crop",
+      demo: "https://guess-the-number-game-ten-theta.vercel.app/",
+      github: "https://github.com/Ahmedshreif-code/Guess-the-number-Game.git"
+    }
+
   ];
 }
