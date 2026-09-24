@@ -9,25 +9,9 @@ import { Component } from '@angular/core';
 export class Projects {
   projects = [
     {
-      title: "Bab Al-Hara Restaurant",
-      description: "Website for a Syrian restaurant with sections for menu, contact, and online orders.",
-      technologies: "HTML, CSS",
-      img: "https://images.unsplash.com/photo-1481833761820-0509d3217039?w=500&auto=format&fit=crop&q=60",
-      demo: "https://ahmedshreif-code.github.io/bab-el-hara-web-/index.html##contact",
-      github: "https://github.com/Ahmedshreif-code/bab-el-hara-web-.git"
-    },
-    {
-      title: "Maldives Tourism Website",
-      description: "Travel website highlighting Maldivian destinations with beautiful visuals and tourist info.",
-      technologies: "HTML, CSS, Bootstrap",
-      img: "https://images.unsplash.com/photo-1503125210483-8b1d12bccdbe?w=500&auto=format&fit=crop&q=60",
-      demo: "https://ahmedshreif-code.github.io/project-3-bootstrab/",
-      github: "https://github.com/Ahmedshreif-code/project-3-bootstrab.git"
-    },
-    {
       title: "THE UX REVIEW",
       description: "Responsive Landing Page – A modern and fully responsive landing page built using HTML5 and CSS3. The project features a clean layout, responsive design for all screen sizes, well-structured sections, and modern UI styling, demonstrating strong fundamentals in frontend web development.",
-      technologies: "HTML, CSS",
+      technologies: "HTML5, CSS3",
       img: "https://images.unsplash.com/photo-1630852722069-7062272a0f8a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       demo: "https://ahmedshreif-code.github.io/Route-Tasks/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment4-01004369345/",
       github: "https://github.com/Ahmedshreif-code/Route-Tasks/tree/main/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment4-01004369345"
@@ -35,11 +19,29 @@ export class Projects {
     {
       title: "Mudabbir Dashboard",
       description: "Responsive Dashboard – A modern and fully responsive dashboard built with HTML5 and CSS3. The project includes a clean product showcase, promotional sections, responsive navigation, and a well-structured layout, demonstrating responsive design principles and attention to user experience.",
-      technologies: "HTML, CSS",
+      technologies: "HTML5, CSS3",
       img: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       demo: "https://ahmedshreif-code.github.io/Route-Tasks/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment5-01004369345/",
       github: "https://github.com/Ahmedshreif-code/Route-Tasks/tree/main/Ahmed-shreif-Abdelaty-sun-wed-11-2-Assigment5-01004369345"
     },
+    {
+      title: "EliteHomes – Real Estate Website",
+      description: "A modern and responsive real estate website featuring property search and filtering, featured properties, property categories, popular locations, real estate services, client testimonials, FAQs, and a contact section. The project focuses on creating a professional, responsive, and user-friendly real estate experience.",
+      technologies: "HTML5, CSS3, Bootstrap 5",
+      img: "https://plus.unsplash.com/premium_photo-1776174237682-2b37be27fe0b?q=80&w=1191&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      demo: "https://ahmedshreif-code.github.io/Route-Tasks/Ahmed-shreif-Abdelaty-sun-wed-11-2-Exam1-01004369345/",
+      github: "https://github.com/Ahmedshreif-code/Route-Tasks/tree/main/Ahmed-shreif-Abdelaty-sun-wed-11-2-Exam1-01004369345"
+    },
+    {
+      title: "Maldives Tourism Website",
+      description: "Travel website highlighting Maldivian destinations with beautiful visuals and tourist info.",
+      technologies: "HTML5, CSS3, Bootstrap 5",
+      img: "https://images.unsplash.com/photo-1503125210483-8b1d12bccdbe?w=500&auto=format&fit=crop&q=60",
+      demo: "https://ahmedshreif-code.github.io/project-3-bootstrab/",
+      github: "https://github.com/Ahmedshreif-code/project-3-bootstrab.git"
+    },
+
+
     {
       title: "ContactHub – Smart Contact Manager",
       description: "A responsive contact management application built with HTML5, CSS3, Bootstrap, and JavaScript. The application enables users to add, edit, search, and organize contacts, with dedicated sections for favorites and emergency contacts. It uses dynamic DOM manipulation and browser Local Storage to manage and persist contact data.",
